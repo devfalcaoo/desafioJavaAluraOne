@@ -2,9 +2,9 @@ A proposta é iniciarmos os dados do cliente como um extrato, e em seguida, tere
 ***********************
 Dados iniciais do cliente:
 
-Nome: Jacqueline Oliveira
+Nome: XXXX XXX
 Tipo conta: Corrente
-Saldo inicial: R$ 2500,00
+Saldo inicial: R$ XXX,XX
 ***********************
 
 Operações
